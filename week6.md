@@ -2,8 +2,14 @@
 ## Learning Activities & Resources
 This week the team met online for the first time to set up Trello, Slack, Github and Discord. All but Discord have been connected to each other. 
 
+The following is a complete guide on how to set this up if required in the future.
+
+- https://github.com/ITatJCU/ProjectManagement/wiki 
+
 Project Management Tools Setup - Trello, GitHub, Slack
 - https://www.youtube.com/watch?v=8Iv8oFZP95o 
+
+
 
 ### Team links and personal LinkedIn.
 - https://trello.com/b/fK7fAHKP/cp-3402-assignment-2-team-08 
