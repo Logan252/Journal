@@ -1,4 +1,4 @@
-# Week 6
+# Week 9
 ## Learning Activities & Resources
 This week we were to make a new website using SASS. Due to time constraints on the assignment, I have forked the "adviceworkshop" provided by Lindsay in the tutorial to learn what I need without losing too much time.
 
