@@ -29,6 +29,25 @@ You can run grunt by typing "grunt" in the command terminal while in the project
 To use SASS requires more software to run. The two options are through Github or a node package manager. 
 Also requires a build tool like Grunt or Gulp and the user needs to be adept at usng and navigating the command prompt. 
 
+
+### Five Server - A suitable live local server for php.
+Below is the alternative extension and set up provided to the team that was having difficulties with the local server.
+As mentioned in the last meeting some people had issues with the live server.
+
+Download live server (five server) in the extensions in VS code.
+
+Create a file called fiveserver.config.js
+
+Add the following code
+
+// fiveserver.config.js
+module.exports = {
+    php: "C:\\xampp\\php\\php.exe"
+  };
+ 
+
+Please note that the php: file path is the default, if you have moved it to another drive or folder, you will need to change the path.
+
 ### Career/Employability/Learning Insights
 This practical is the final prac that is not directly related to the assignment.
 It required the knowledge of SASS, CSS, Grunt, NPM (node package manager), scotchbox, vagrant, php, and Xampp. 
